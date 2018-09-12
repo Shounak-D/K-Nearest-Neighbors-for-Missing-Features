@@ -13,6 +13,6 @@ LICENSE:
 
 INSTRUCTIONS (for Demo run):
 
-1. Load (in the MATLAB workspace) the required data with rows of the matrix 'x' corresponding to data-points and the row vector 'labels' of class-labels (see 'TAE.mat' for an example).
-2. Comment/Uncomment the sections in the 'MissKNNauto1.m' file corresponding to the type of missingness desired, viz. MCAR, MAR, MNAR-1 or MNAR-2.
-3. Run 'MissKNNauto1.m' with the relevant parameters.
+1. Load (in the MATLAB workspace) the required data with rows of the matrix 'x' corresponding to data-points and the row vector 'labels' of class-labels (see 'sampleWorkspace.mat' for an example).
+2. Run 'KNNCode.m' with the relevant parameters.
+3. The resulting predicted class labels can be found in the array 'yPred'.
