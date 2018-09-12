@@ -1,5 +1,5 @@
-# K-Nearest-Neighbors-for-Missing-Features
-K-Nearest Neighbors for Datasets with Missing Features using the Feature Weighted Penalty based Dissimilarity measure
+# K-Nearest-Neighbors-Classification-with-Missing-Features
+K-Nearest Neighbors Classification for datasets with Missing Features using the Feature Weighted Penalty based Dissimilarity measure
 
 LICENSE:
 
